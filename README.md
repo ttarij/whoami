@@ -3,28 +3,28 @@ Hi, I'm a Cybersecurity Student
 
 I'm currently learning cybersecurity with a focus on reverse engineering and penetration testing. I like understanding how software works on the inside and finding ways to secure or break systems (ethically).
 
-Interests
+Interests :
 
-Reverse Engineering
+  Reverse Engineering
 
-Pentesting
+  Pentesting
 
-CTF Challenges
+  CTF Challenges
 
-Linux / low-level stuff
+  Linux / low-level stuff
 
-Tools I Use
+Tools I Use :
 
-Reverse Engineering: Ghidra, IDA (Free), x64dbg
+  Reverse Engineering: Ghidra, IDA (Free), x64dbg
 
-Pentesting: Nmap, Burp Suite, Metasploit
+  Pentesting: Nmap, Burp Suite, Metasploit
+  
+  Other: Python, C, Linux
 
-Other: Python, C, Linux
+Currently Learning :
 
-Currently Learning
+  Assembly 
 
-Assembly basics
+  Debugging and binary analysis
 
-Debugging and binary analysis
-
-Web and network pentesting
+  Web and network pentesting
