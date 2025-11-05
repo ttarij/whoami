@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarik</h1>
+<h1 align="center">Hi 👋, I'm Tariik</h1>
 <h3 align="center">Cybersecurity Student | Reverse Engineering & Penetration Testing Enthusiast | CTF Player</h3>
 
 <p align="center">
