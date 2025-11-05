@@ -91,7 +91,7 @@ $ cat skills.txt
     └── Assembly (x86/x64)
 ```
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="20" height="20" alt="Arch Linux logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg](https://images.seeklogo.com/logo-png/48/1/arch-linux-logo-png_seeklogo-483426.png" width="20" height="20" alt="Arch Linux logo" />
   And I use Arch btw 
 </p>
 
